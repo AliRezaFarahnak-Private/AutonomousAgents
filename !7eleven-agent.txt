@@ -1,0 +1,5 @@
+﻿List all possible directories where you can save files.
+Navigate to 7 Eleven . DK
+Click on Kuponshop
+Make a Snak shot
+save all products as json on available directory
